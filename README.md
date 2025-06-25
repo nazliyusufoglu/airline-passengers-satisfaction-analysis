@@ -1,6 +1,6 @@
 # ✈️ Airline Passenger Satisfaction Analysis
 
-This project involves an in-depth analysis of the Airline Passenger Satisfaction Dataset, aiming to explore key factors that influence passenger satisfaction. The analysis includes data cleaning, descriptive statistics, missing and outlier value handling, and data visualization.
+This project involves an in-depth analysis of the Airline Passenger Satisfaction Dataset, aiming to explore key factors that influence passenger satisfaction. The analysis includes data cleaning, descriptive statistics, missing and outlier value handling, and data visualization. I wrote this notebook on Kaggle Notebook, so if you mind, you can see the notebook on [Kaggle](https://www.kaggle.com/code/nazliyusufoglu/airline-passenger-data-analysis) too. 
 
 ## 📂 Dataset Description
 
