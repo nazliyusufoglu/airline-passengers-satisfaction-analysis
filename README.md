@@ -50,7 +50,7 @@ The project is structured to meet the following goals:
 
 ### ❓ Missing Value Analysis
 - Identification of missing data.
-- Discussion of imputation strategies (median)
+- Discussion of imputation strategies (mean, median or deletion)
 
 ### 🚨 Outlier Detection
 - Outliers in numerical variables are identified using:
