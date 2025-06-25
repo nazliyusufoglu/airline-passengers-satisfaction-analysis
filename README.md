@@ -32,7 +32,7 @@ This dataset contains the results of an airline passenger satisfaction survey, a
 - **Arrival Delay in Minutes:** Duration of arrival delay (in minutes)  
 - **Satisfaction:** Overall satisfaction level (Satisfied, Neutral or Dissatisfied)
 
-> **Note:** This dataset is a cleaned version of an original dataset shared by John D, modified for classification tasks.  
+
 > **Dataset Link:** *[Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)*
 
 ---
